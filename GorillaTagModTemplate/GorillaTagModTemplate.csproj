@@ -1,7 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net472</TargetFramework>
   </PropertyGroup>
 
 	<ItemGroup>
@@ -17,742 +17,742 @@
 
 	<ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>bin\Debug\net8.0\0Harmony.dll</HintPath>
+      <HintPath>bin\Debug\net472\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="AA.Mothership">
-      <HintPath>bin\Debug\net8.0\AA.Mothership.dll</HintPath>
+      <HintPath>bin\Debug\net472\AA.Mothership.dll</HintPath>
     </Reference>
     <Reference Include="ALINE">
-      <HintPath>bin\Debug\net8.0\ALINE.dll</HintPath>
+      <HintPath>bin\Debug\net472\ALINE.dll</HintPath>
     </Reference>
     <Reference Include="andywiecko.BurstTriangulator">
-      <HintPath>bin\Debug\net8.0\andywiecko.BurstTriangulator.dll</HintPath>
+      <HintPath>bin\Debug\net472\andywiecko.BurstTriangulator.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp" Publicize="true">
-      <HintPath>bin\Debug\net8.0\Assembly-CSharp.dll</HintPath>
+      <HintPath>bin\Debug\net472\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>bin\Debug\net8.0\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>bin\Debug\net472\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKRuntime">
-      <HintPath>bin\Debug\net8.0\AssistantCoreSDKRuntime.dll</HintPath>
+      <HintPath>bin\Debug\net472\AssistantCoreSDKRuntime.dll</HintPath>
     </Reference>
     <Reference Include="AssistantVoiceCommandCommon">
-      <HintPath>bin\Debug\net8.0\AssistantVoiceCommandCommon.dll</HintPath>
+      <HintPath>bin\Debug\net472\AssistantVoiceCommandCommon.dll</HintPath>
     </Reference>
     <Reference Include="AstarPathfindingProject">
-      <HintPath>bin\Debug\net8.0\AstarPathfindingProject.dll</HintPath>
+      <HintPath>bin\Debug\net472\AstarPathfindingProject.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.Fbx">
-      <HintPath>bin\Debug\net8.0\Autodesk.Fbx.dll</HintPath>
+      <HintPath>bin\Debug\net472\Autodesk.Fbx.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.Fbx.BuildTestAssets">
-      <HintPath>bin\Debug\net8.0\Autodesk.Fbx.BuildTestAssets.dll</HintPath>
+      <HintPath>bin\Debug\net472\Autodesk.Fbx.BuildTestAssets.dll</HintPath>
     </Reference>
     <Reference Include="Backtrace.Unity">
-      <HintPath>bin\Debug\net8.0\Backtrace.Unity.dll</HintPath>
+      <HintPath>bin\Debug\net472\Backtrace.Unity.dll</HintPath>
     </Reference>
     <Reference Include="BakeryRuntimeAssembly">
-      <HintPath>bin\Debug\net8.0\BakeryRuntimeAssembly.dll</HintPath>
+      <HintPath>bin\Debug\net472\BakeryRuntimeAssembly.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>bin\Debug\net8.0\BepInEx.dll</HintPath>
+      <HintPath>bin\Debug\net472\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx.Harmony">
-      <HintPath>bin\Debug\net8.0\BepInEx.Harmony.dll</HintPath>
+      <HintPath>bin\Debug\net472\BepInEx.Harmony.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx.Preloader">
-      <HintPath>bin\Debug\net8.0\BepInEx.Preloader.dll</HintPath>
+      <HintPath>bin\Debug\net472\BepInEx.Preloader.dll</HintPath>
     </Reference>
     <Reference Include="com.rlabrecque.steamworks.net">
-      <HintPath>bin\Debug\net8.0\com.rlabrecque.steamworks.net.dll</HintPath>
+      <HintPath>bin\Debug\net472\com.rlabrecque.steamworks.net.dll</HintPath>
     </Reference>
     <Reference Include="Domain_Reload">
-      <HintPath>bin\Debug\net8.0\Domain_Reload.dll</HintPath>
+      <HintPath>bin\Debug\net472\Domain_Reload.dll</HintPath>
     </Reference>
     <Reference Include="endel.nativewebsocket">
-      <HintPath>bin\Debug\net8.0\endel.nativewebsocket.dll</HintPath>
+      <HintPath>bin\Debug\net472\endel.nativewebsocket.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Common">
-      <HintPath>bin\Debug\net8.0\Fusion.Common.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Common.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Log">
-      <HintPath>bin\Debug\net8.0\Fusion.Log.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Log.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Realtime">
-      <HintPath>bin\Debug\net8.0\Fusion.Realtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Realtime.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Runtime">
-      <HintPath>bin\Debug\net8.0\Fusion.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Sockets">
-      <HintPath>bin\Debug\net8.0\Fusion.Sockets.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Sockets.dll</HintPath>
     </Reference>
     <Reference Include="Fusion.Unity">
-      <HintPath>bin\Debug\net8.0\Fusion.Unity.dll</HintPath>
+      <HintPath>bin\Debug\net472\Fusion.Unity.dll</HintPath>
     </Reference>
     <Reference Include="geometry3Sharp">
-      <HintPath>bin\Debug\net8.0\geometry3Sharp.dll</HintPath>
+      <HintPath>bin\Debug\net472\geometry3Sharp.dll</HintPath>
     </Reference>
     <Reference Include="GT_CustomMapSupportRuntime">
-      <HintPath>bin\Debug\net8.0\GT_CustomMapSupportRuntime.dll</HintPath>
+      <HintPath>bin\Debug\net472\GT_CustomMapSupportRuntime.dll</HintPath>
     </Reference>
     <Reference Include="HarmonyXInterop">
-      <HintPath>bin\Debug\net8.0\HarmonyXInterop.dll</HintPath>
+      <HintPath>bin\Debug\net472\HarmonyXInterop.dll</HintPath>
     </Reference>
     <Reference Include="K4os.Compression.LZ4">
-      <HintPath>bin\Debug\net8.0\K4os.Compression.LZ4.dll</HintPath>
+      <HintPath>bin\Debug\net472\K4os.Compression.LZ4.dll</HintPath>
     </Reference>
     <Reference Include="KID">
-      <HintPath>bin\Debug\net8.0\KID.dll</HintPath>
+      <HintPath>bin\Debug\net472\KID.dll</HintPath>
     </Reference>
     <Reference Include="LIV.LCK">
-      <HintPath>bin\Debug\net8.0\LIV.LCK.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.LCK.dll</HintPath>
     </Reference>
     <Reference Include="LIV.LCK.Streaming">
-      <HintPath>bin\Debug\net8.0\LIV.LCK.Streaming.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.LCK.Streaming.dll</HintPath>
     </Reference>
     <Reference Include="LIV.LCKCore">
-      <HintPath>bin\Debug\net8.0\LIV.LCKCore.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.LCKCore.dll</HintPath>
     </Reference>
     <Reference Include="LIV.LCKCore.ThirdParty.MessagePack">
-      <HintPath>bin\Debug\net8.0\LIV.LCKCore.ThirdParty.MessagePack.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.LCKCore.ThirdParty.MessagePack.dll</HintPath>
     </Reference>
     <Reference Include="LIV.LCK_GorillaTag">
-      <HintPath>bin\Debug\net8.0\LIV.LCK_GorillaTag.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.LCK_GorillaTag.dll</HintPath>
     </Reference>
     <Reference Include="LIV.NativeAudioBridge">
-      <HintPath>bin\Debug\net8.0\LIV.NativeAudioBridge.dll</HintPath>
+      <HintPath>bin\Debug\net472\LIV.NativeAudioBridge.dll</HintPath>
     </Reference>
     <Reference Include="MeshBakerCore">
-      <HintPath>bin\Debug\net8.0\MeshBakerCore.dll</HintPath>
+      <HintPath>bin\Debug\net472\MeshBakerCore.dll</HintPath>
     </Reference>
     <Reference Include="MeshBakerExamples">
-      <HintPath>bin\Debug\net8.0\MeshBakerExamples.dll</HintPath>
+      <HintPath>bin\Debug\net472\MeshBakerExamples.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Net.endel.nativewebsocket">
-      <HintPath>bin\Debug\net8.0\Meta.Net.endel.nativewebsocket.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Net.endel.nativewebsocket.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>bin\Debug\net8.0\Meta.Voice.Hub.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Voice.Hub.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.NLayer">
-      <HintPath>bin\Debug\net8.0\Meta.Voice.NLayer.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Voice.NLayer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Opus">
-      <HintPath>bin\Debug\net8.0\Meta.Voice.Opus.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Voice.Opus.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Common">
-      <HintPath>bin\Debug\net8.0\Meta.VoiceSDK.Mic.Common.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.VoiceSDK.Mic.Common.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>bin\Debug\net8.0\Meta.VoiceSDK.Mic.Other.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.VoiceSDK.Mic.Other.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer">
-      <HintPath>bin\Debug\net8.0\Meta.Wit.Composer.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Wit.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation">
-      <HintPath>bin\Debug\net8.0\Meta.Wit.Dictation.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.Wit.Dictation.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi">
-      <HintPath>bin\Debug\net8.0\Meta.WitAi.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.WitAi.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Lib">
-      <HintPath>bin\Debug\net8.0\Meta.WitAi.Lib.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.WitAi.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS">
-      <HintPath>bin\Debug\net8.0\Meta.WitAi.TTS.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.WitAi.TTS.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio">
-      <HintPath>bin\Debug\net8.0\Meta.XR.Audio.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.Audio.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks">
-      <HintPath>bin\Debug\net8.0\Meta.XR.BuildingBlocks.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.BuildingBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.EnvironmentDepth">
-      <HintPath>bin\Debug\net8.0\Meta.XR.EnvironmentDepth.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.EnvironmentDepth.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger">
-      <HintPath>bin\Debug\net8.0\Meta.XR.ImmersiveDebugger.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.ImmersiveDebugger.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger.Interface">
-      <HintPath>bin\Debug\net8.0\Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit">
-      <HintPath>bin\Debug\net8.0\meta.xr.mrutilitykit.dll</HintPath>
+      <HintPath>bin\Debug\net472\meta.xr.mrutilitykit.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Fusion">
-      <HintPath>bin\Debug\net8.0\Meta.XR.MultiplayerBlocks.Fusion.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.MultiplayerBlocks.Fusion.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Shared">
-      <HintPath>bin\Debug\net8.0\Meta.XR.MultiplayerBlocks.Shared.dll</HintPath>
+      <HintPath>bin\Debug\net472\Meta.XR.MultiplayerBlocks.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Modio">
-      <HintPath>bin\Debug\net8.0\Modio.dll</HintPath>
+      <HintPath>bin\Debug\net472\Modio.dll</HintPath>
     </Reference>
     <Reference Include="Modio.Unity">
-      <HintPath>bin\Debug\net8.0\Modio.Unity.dll</HintPath>
+      <HintPath>bin\Debug\net472\Modio.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Modio.Unity.Examples">
-      <HintPath>bin\Debug\net8.0\Modio.Unity.Examples.dll</HintPath>
+      <HintPath>bin\Debug\net472\Modio.Unity.Examples.dll</HintPath>
     </Reference>
     <Reference Include="Modio.Unity.UI">
-      <HintPath>bin\Debug\net8.0\Modio.Unity.UI.dll</HintPath>
+      <HintPath>bin\Debug\net472\Modio.Unity.UI.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>bin\Debug\net8.0\Mono.Cecil.dll</HintPath>
+      <HintPath>bin\Debug\net472\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Mdb">
-      <HintPath>bin\Debug\net8.0\Mono.Cecil.Mdb.dll</HintPath>
+      <HintPath>bin\Debug\net472\Mono.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>bin\Debug\net8.0\Mono.Cecil.Pdb.dll</HintPath>
+      <HintPath>bin\Debug\net472\Mono.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>bin\Debug\net8.0\Mono.Cecil.Rocks.dll</HintPath>
+      <HintPath>bin\Debug\net472\Mono.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Security">
-      <HintPath>bin\Debug\net8.0\Mono.Security.dll</HintPath>
+      <HintPath>bin\Debug\net472\Mono.Security.dll</HintPath>
     </Reference>
     <Reference Include="MonoMod.RuntimeDetour">
-      <HintPath>bin\Debug\net8.0\MonoMod.RuntimeDetour.dll</HintPath>
+      <HintPath>bin\Debug\net472\MonoMod.RuntimeDetour.dll</HintPath>
     </Reference>
     <Reference Include="MonoMod.Utils">
-      <HintPath>bin\Debug\net8.0\MonoMod.Utils.dll</HintPath>
+      <HintPath>bin\Debug\net472\MonoMod.Utils.dll</HintPath>
     </Reference>
     <Reference Include="NanoSockets">
-      <HintPath>bin\Debug\net8.0\NanoSockets.dll</HintPath>
+      <HintPath>bin\Debug\net472\NanoSockets.dll</HintPath>
     </Reference>
     <Reference Include="NativeGallery">
-      <HintPath>bin\Debug\net8.0\NativeGallery.dll</HintPath>
+      <HintPath>bin\Debug\net472\NativeGallery.dll</HintPath>
     </Reference>
     <Reference Include="NavMeshComponents">
-      <HintPath>bin\Debug\net8.0\NavMeshComponents.dll</HintPath>
+      <HintPath>bin\Debug\net472\NavMeshComponents.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>bin\Debug\net8.0\Newtonsoft.Json.dll</HintPath>
+      <HintPath>bin\Debug\net472\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nexus.nexussdk.Runtime">
-      <HintPath>bin\Debug\net8.0\nexus.nexussdk.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\nexus.nexussdk.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Haptics">
-      <HintPath>bin\Debug\net8.0\Oculus.Haptics.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Haptics.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction">
-      <HintPath>bin\Debug\net8.0\Oculus.Interaction.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Interaction.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR">
-      <HintPath>bin\Debug\net8.0\Oculus.Interaction.OVR.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Interaction.OVR.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Samples">
-      <HintPath>bin\Debug\net8.0\Oculus.Interaction.OVR.Samples.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Interaction.OVR.Samples.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Samples">
-      <HintPath>bin\Debug\net8.0\Oculus.Interaction.Samples.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Interaction.Samples.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.UnityXR">
-      <HintPath>bin\Debug\net8.0\Oculus.Interaction.UnityXR.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Interaction.UnityXR.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
-      <HintPath>bin\Debug\net8.0\Oculus.Platform.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR">
-      <HintPath>bin\Debug\net8.0\Oculus.VR.dll</HintPath>
+      <HintPath>bin\Debug\net472\Oculus.VR.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.ClipperLib">
-      <HintPath>bin\Debug\net8.0\Pathfinding.ClipperLib.dll</HintPath>
+      <HintPath>bin\Debug\net472\Pathfinding.ClipperLib.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
-      <HintPath>bin\Debug\net8.0\Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>bin\Debug\net472\Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Poly2Tri">
-      <HintPath>bin\Debug\net8.0\Pathfinding.Poly2Tri.dll</HintPath>
+      <HintPath>bin\Debug\net472\Pathfinding.Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>bin\Debug\net8.0\Photon3Unity3D.dll</HintPath>
+      <HintPath>bin\Debug\net472\Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="PhotonRealtime">
-      <HintPath>bin\Debug\net8.0\PhotonRealtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonRealtime.dll</HintPath>
     </Reference>
     <Reference Include="PhotonUnityNetworking">
-      <HintPath>bin\Debug\net8.0\PhotonUnityNetworking.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonUnityNetworking.dll</HintPath>
     </Reference>
     <Reference Include="PhotonUnityNetworking.Utilities">
-      <HintPath>bin\Debug\net8.0\PhotonUnityNetworking.Utilities.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonUnityNetworking.Utilities.dll</HintPath>
     </Reference>
     <Reference Include="PhotonVoice">
-      <HintPath>bin\Debug\net8.0\PhotonVoice.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonVoice.dll</HintPath>
     </Reference>
     <Reference Include="PhotonVoice.API">
-      <HintPath>bin\Debug\net8.0\PhotonVoice.API.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonVoice.API.dll</HintPath>
     </Reference>
     <Reference Include="PhotonVoice.Fusion">
-      <HintPath>bin\Debug\net8.0\PhotonVoice.Fusion.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonVoice.Fusion.dll</HintPath>
     </Reference>
     <Reference Include="PhotonVoice.PUN">
-      <HintPath>bin\Debug\net8.0\PhotonVoice.PUN.dll</HintPath>
+      <HintPath>bin\Debug\net472\PhotonVoice.PUN.dll</HintPath>
     </Reference>
     <Reference Include="PlayFab">
-      <HintPath>bin\Debug\net8.0\PlayFab.dll</HintPath>
+      <HintPath>bin\Debug\net472\PlayFab.dll</HintPath>
     </Reference>
     <Reference Include="Sirenix.OdinInspector.Attributes">
-      <HintPath>bin\Debug\net8.0\Sirenix.OdinInspector.Attributes.dll</HintPath>
+      <HintPath>bin\Debug\net472\Sirenix.OdinInspector.Attributes.dll</HintPath>
     </Reference>
     <Reference Include="Sirenix.OdinInspector.Modules.Unity.Addressables">
-      <HintPath>bin\Debug\net8.0\Sirenix.OdinInspector.Modules.Unity.Addressables.dll</HintPath>
+      <HintPath>bin\Debug\net472\Sirenix.OdinInspector.Modules.Unity.Addressables.dll</HintPath>
     </Reference>
     <Reference Include="SteamVR">
-      <HintPath>bin\Debug\net8.0\SteamVR.dll</HintPath>
+      <HintPath>bin\Debug\net472\SteamVR.dll</HintPath>
     </Reference>
     <Reference Include="SteamVR_Actions">
-      <HintPath>bin\Debug\net8.0\SteamVR_Actions.dll</HintPath>
+      <HintPath>bin\Debug\net472\SteamVR_Actions.dll</HintPath>
     </Reference>
     <Reference Include="TechniePhysicsCreator">
-      <HintPath>bin\Debug\net8.0\TechniePhysicsCreator.dll</HintPath>
+      <HintPath>bin\Debug\net472\TechniePhysicsCreator.dll</HintPath>
     </Reference>
     <Reference Include="UniTask">
-      <HintPath>bin\Debug\net8.0\UniTask.dll</HintPath>
+      <HintPath>bin\Debug\net472\UniTask.dll</HintPath>
     </Reference>
     <Reference Include="UniTask.Addressables">
-      <HintPath>bin\Debug\net8.0\UniTask.Addressables.dll</HintPath>
+      <HintPath>bin\Debug\net472\UniTask.Addressables.dll</HintPath>
     </Reference>
     <Reference Include="UniTask.DOTween">
-      <HintPath>bin\Debug\net8.0\UniTask.DOTween.dll</HintPath>
+      <HintPath>bin\Debug\net472\UniTask.DOTween.dll</HintPath>
     </Reference>
     <Reference Include="UniTask.Linq">
-      <HintPath>bin\Debug\net8.0\UniTask.Linq.dll</HintPath>
+      <HintPath>bin\Debug\net472\UniTask.Linq.dll</HintPath>
     </Reference>
     <Reference Include="UniTask.TextMeshPro">
-      <HintPath>bin\Debug\net8.0\UniTask.TextMeshPro.dll</HintPath>
+      <HintPath>bin\Debug\net472\UniTask.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Addressables">
-      <HintPath>bin\Debug\net8.0\Unity.Addressables.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Addressables.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
-      <HintPath>bin\Debug\net8.0\Unity.AI.Navigation.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.AI.Navigation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Animation.Rigging">
-      <HintPath>bin\Debug\net8.0\Unity.Animation.Rigging.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Animation.Rigging.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Animation.Rigging.DocCodeExamples">
-      <HintPath>bin\Debug\net8.0\Unity.Animation.Rigging.DocCodeExamples.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Animation.Rigging.DocCodeExamples.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>bin\Debug\net8.0\Unity.Burst.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>bin\Debug\net8.0\Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Cinemachine">
-      <HintPath>bin\Debug\net8.0\Unity.Cinemachine.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>bin\Debug\net8.0\Unity.Collections.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>bin\Debug\net8.0\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Formats.Fbx.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.Formats.Fbx.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Formats.Fbx.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem">
-      <HintPath>bin\Debug\net8.0\Unity.InputSystem.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>bin\Debug\net8.0\Unity.InputSystem.ForUI.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.013">
-      <HintPath>bin\Debug\net8.0\Unity.InternalAPIEngineBridge.013.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.InternalAPIEngineBridge.013.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Localization">
-      <HintPath>bin\Debug\net8.0\Unity.Localization.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Localization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>bin\Debug\net8.0\Unity.Mathematics.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.MemoryProfiler">
-      <HintPath>bin\Debug\net8.0\Unity.MemoryProfiler.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.MemoryProfiler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>bin\Debug\net8.0\Unity.Multiplayer.Center.Common.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Multiplayer.Center.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Playmode">
-      <HintPath>bin\Debug\net8.0\Unity.Multiplayer.Playmode.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Multiplayer.Playmode.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Multiplayer.Playmode.Common.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.Multiplayer.Playmode.Common.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Multiplayer.Playmode.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-      <HintPath>bin\Debug\net8.0\Unity.ProBuilder.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Csg">
-      <HintPath>bin\Debug\net8.0\Unity.ProBuilder.Csg.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ProBuilder.Csg.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.KdTree">
-      <HintPath>bin\Debug\net8.0\Unity.ProBuilder.KdTree.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ProBuilder.KdTree.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Poly2Tri">
-      <HintPath>bin\Debug\net8.0\Unity.ProBuilder.Poly2Tri.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ProBuilder.Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Stl">
-      <HintPath>bin\Debug\net8.0\Unity.ProBuilder.Stl.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ProBuilder.Stl.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Profiling.Core">
-      <HintPath>bin\Debug\net8.0\Unity.Profiling.Core.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Profiling.Core.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder">
-      <HintPath>bin\Debug\net8.0\Unity.Recorder.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Recorder.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Base">
-      <HintPath>bin\Debug\net8.0\Unity.Recorder.Base.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Recorder.Base.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime.Shared">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Core.Runtime.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.GPUDriven.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.GPUDriven.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.2D.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Universal.2D.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>bin\Debug\net8.0\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ResourceManager">
-      <HintPath>bin\Debug\net8.0\Unity.ResourceManager.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ResourceManager.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ScriptableBuildPipeline">
-      <HintPath>bin\Debug\net8.0\Unity.ScriptableBuildPipeline.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.ScriptableBuildPipeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Splines">
-      <HintPath>bin\Debug\net8.0\Unity.Splines.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Splines.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>bin\Debug\net8.0\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>bin\Debug\net8.0\Unity.Timeline.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualEffectGraph.Runtime">
-      <HintPath>bin\Debug\net8.0\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.VisualEffectGraph.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
-      <HintPath>bin\Debug\net8.0\Unity.XR.CoreUtils.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit">
-      <HintPath>bin\Debug\net8.0\Unity.XR.Interaction.Toolkit.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.Interaction.Toolkit.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-      <HintPath>bin\Debug\net8.0\Unity.XR.Management.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenVR">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenVR.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenVR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MockRuntime">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.Features.MockRuntime.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.Features.MockRuntime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger">
-      <HintPath>bin\Debug\net8.0\Unity.XR.OpenXR.Features.RuntimeDebugger.dll</HintPath>
+      <HintPath>bin\Debug\net472\Unity.XR.OpenXR.Features.RuntimeDebugger.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>bin\Debug\net8.0\UnityEngine.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AccessibilityModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AMDModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AMDModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AMDModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AndroidJNIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AndroidJNIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AndroidJNIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ARModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ARModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ARModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ClothModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterInputModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ClusterInputModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ClusterInputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterRendererModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ClusterRendererModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ContentLoadModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ContentLoadModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ContentLoadModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.CrashReportingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.CrashReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DirectorModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.DirectorModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.DirectorModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DSPGraphModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.DSPGraphModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.DSPGraphModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.GameCenterModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.GameCenterModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.GIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.GIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GraphicsStateCollectionSerializerModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.GraphicsStateCollectionSerializerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GridModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.GridModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.GridModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HierarchyCoreModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.HierarchyCoreModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.HierarchyCoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HotReloadModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.HotReloadModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.HotReloadModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IdentifiersModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.IdentifiersModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.IdentifiersModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputForUIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.InputForUIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.InputForUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.InputModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.InputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InsightsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.InsightsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.InsightsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.JSONSerializeModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.LocalizationModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.LocalizationModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.LocalizationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.MarshallingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.MarshallingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.MarshallingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.MultiplayerModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.MultiplayerModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.MultiplayerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.NVIDIAModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.NVIDIAModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.NVIDIAModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PerformanceReportingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.PerformanceReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Physics2DModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.Physics2DModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.Physics2DModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PropertiesModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.PropertiesModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.PropertiesModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ScreenCaptureModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ScreenCaptureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ShaderVariantAnalyticsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.ShaderVariantAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SharedInternalsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SharedInternalsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteMaskModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SpriteMaskModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SpriteMaskModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SpriteShapeModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SpriteShapeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StreamingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.StreamingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.StreamingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubstanceModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SubstanceModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SubstanceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SubsystemsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.SubsystemsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.SubsystemsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TerrainModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TerrainModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreFontEngineModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextCoreTextEngineModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TilemapModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TilemapModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TLSModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.TLSModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.TLSModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UI.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UIElementsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UmbraModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UmbraModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UmbraModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConnectModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityConnectModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConsentModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityConsentModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityConsentModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityCurlModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityCurlModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityCurlModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityTestProtocolModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityTestProtocolModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityTestProtocolModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAudioModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestTextureModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestWWWModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.VehiclesModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.VehiclesModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VFXModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.VFXModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.VFXModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VideoModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.VideoModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VirtualTexturingModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.VirtualTexturingModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.VirtualTexturingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VRModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.VRModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.VRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.WindModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.WindModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>bin\Debug\net8.0\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XRModule">
-      <HintPath>bin\Debug\net8.0\UnityEngine.XRModule.dll</HintPath>
+      <HintPath>bin\Debug\net472\UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>bin\Debug\net8.0\Valve.Newtonsoft.Json.dll</HintPath>
+      <HintPath>bin\Debug\net472\Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Runtime">
-      <HintPath>bin\Debug\net8.0\VoiceSDK.Dictation.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\VoiceSDK.Dictation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime">
-      <HintPath>bin\Debug\net8.0\VoiceSDK.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\VoiceSDK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>bin\Debug\net8.0\VoiceSDK.Runtime.Composer.dll</HintPath>
+      <HintPath>bin\Debug\net472\VoiceSDK.Runtime.Composer.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry.Runtime">
-      <HintPath>bin\Debug\net8.0\VoiceSDK.Telemetry.Runtime.dll</HintPath>
+      <HintPath>bin\Debug\net472\VoiceSDK.Telemetry.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="VYaml.Core">
-      <HintPath>bin\Debug\net8.0\VYaml.Core.dll</HintPath>
+      <HintPath>bin\Debug\net472\VYaml.Core.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>bin\Debug\net8.0\websocket-sharp.dll</HintPath>
+      <HintPath>bin\Debug\net472\websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="XNode">
-      <HintPath>bin\Debug\net8.0\XNode.dll</HintPath>
+      <HintPath>bin\Debug\net472\XNode.dll</HintPath>
     </Reference>
     <Reference Include="ZString">
-      <HintPath>bin\Debug\net8.0\ZString.dll</HintPath>
+      <HintPath>bin\Debug\net472\ZString.dll</HintPath>
     </Reference>
   </ItemGroup>
 
